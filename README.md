@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Playlistmanager<br>🌱 I’m currently learning Reddis<br>👯 I’m looking to collaborate on Playlistmanager<br>💬 Ask me about Frontend and backend<br>📫 How to reach me shivamlather5@gmail.com
+🔭 Currently diving into the world of DevOps<br><br>👯 I’m looking to collaborate on FullStack Projects<br>💬 Ask me about Frontend and backend<br>📫 How to reach me shivamlather5@gmail.com
 
 
 ## 🌐 Socials:
